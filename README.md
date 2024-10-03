@@ -5,8 +5,13 @@ Well, hello and welcome, friend!
 -->
 
 -🫡 It's okay, we all have a love-hate relationship with CSS.
+
 -💻 Full-stack Software Engineer at Resilient Coders.
+
 -🦊 No one can convince me Naruto isn't the best anime of all time.
+
 -📫 Let's connect on LinkedIn!
+
 -😄 My pronouns are she/her.
+
 -⚡ Fun fact about me : I'm bilingual.
