@@ -6,7 +6,7 @@ Well, hello and welcome, friend!
 
 -🫡 It's okay, we all have a love-hate relationship with CSS.
 
--💻 Full-stack Software Engineer at Resilient Coders.
+-💻 Full-stack Software Engineer at Resilient Coders. Work with tech like MERN and HTML5, CSS, and Javascript
 
 -🦊 No one can convince me Naruto isn't the best anime of all time.
 
